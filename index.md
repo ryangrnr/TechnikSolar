@@ -100,6 +100,8 @@
             </div>
           </div>
         </div>
+    </div>
+    <div id="about">
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Qualifications</h2>
@@ -174,6 +176,8 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div id="get-in-touch">
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Get in Touch</h2>
@@ -202,12 +206,14 @@
                         </div>
                 </div>
             </div>
+            </div>
         </div>
+    </div>
     <footer id="footer">
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    &copy; 2015 Techniksolar Limited. Designed by <a target="_blank" href="http://shapebootstrap.net/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">ShapeBootstrap</a>
+                    &copy; 2015-2020 Techniksolar Limited. Designed by <a target="_blank" href="http://shapebootstrap.net/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">ShapeBootstrap</a>
                 </div>
             </div>
         </div>
