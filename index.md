@@ -1,4 +1,3 @@
-<html lang="en">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -45,7 +44,6 @@
             </div><!--/.container-->
         </nav><!--/nav-->
     </header><!--/header-->
-    <section id="portfolio">
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Our Technical Services</h2>
@@ -101,8 +99,6 @@
             </div>
           </div>
         </div>
-    </section><!--/#portfolio-->
-    <section id="about">
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Qualifications</h2>
@@ -177,8 +173,6 @@
                 </div>
             </div>
         </div>
-    </section><!--/#about-->
-    <section id="get-in-touch">
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Get in Touch</h2>
@@ -208,7 +202,6 @@
                 </div>
             </div>
         </div>
-    </section>
     <footer id="footer">
         <div class="container">
             <div class="row">
@@ -226,5 +219,3 @@
     <script src="js/jquery.inview.min.js"></script>
     <script src="js/wow.min.js"></script>
     <script src="js/main.js"></script>
-</body>
-</html>
