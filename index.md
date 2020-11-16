@@ -45,60 +45,58 @@
         </nav><!--/nav-->
     </header><!--/header-->
     <div id="portfolio">
-        <div class="container">
-            <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Our Technical Services</h2>
-                <p class="text-center wow fadeInDown">Techniksolar Limited established in 2009, offers a complete solution to commercial & domestic natural gas heating installations with component level diagnostic repair in many cases, detailed written technical reports are issued to the client on every service visit. Other specialist services include industrial electrical support such as process control and panel building. LPG and 28sec Kerosene heating oil is also part of our core competencies.
-            </div>
-            <div class="portfolio-items">
-                <div class="portfolio-item creative">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/01.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Commercial Gas and Electrical</h3>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-                <div class="portfolio-item corporate portfolio">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/02.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>Domestic Gas and Electrical</h3>
-                        </div>
+        <div class="section-header">
+            <h2 class="section-title text-center wow fadeInDown">Our Technical Services</h2>
+            <p class="text-center wow fadeInDown">Techniksolar Limited established in 2009, offers a complete solution to commercial & domestic natural gas heating installations with component level diagnostic repair in many cases, detailed written technical reports are issued to the client on every service visit. Other specialist services include industrial electrical support such as process control and panel building. LPG and 28sec Kerosene heating oil is also part of our core competencies.</p>
+        </div>
+        <div class="portfolio-items">
+            <div class="portfolio-item creative">
+                <div class="portfolio-item-inner">
+                    <img class="img-responsive" src="images/portfolio/01.jpg" alt="">
+                    <div class="portfolio-info">
+                        <h3>Commercial Gas and Electrical</h3>
                     </div>
                 </div>
-                <div class="portfolio-item creative">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="images/portfolio/03.jpg" alt="">
-                        <div class="portfolio-info">
-                            <h3>LPG Propane/Butane</h3>
-                        </div>
+            </div><!--/.portfolio-item-->
+            <div class="portfolio-item corporate portfolio">
+                <div class="portfolio-item-inner">
+                    <img class="img-responsive" src="images/portfolio/02.jpg" alt="">
+                    <div class="portfolio-info">
+                        <h3>Domestic Gas and Electrical</h3>
                     </div>
-                </div><!--/.portfolio-item-->
+                </div>
             </div>
-          <div class="row" style="padding 50px;margin-top:20px;margin-bottom:20px">
-            <div class="col-sm-6 wow fadeInLeft">
-                <h3 class="column-title">Commercial Services</h3>
-                <!-- 16:9 aspect ratio -->
-                <ul class="wow fadeInDown">
-                  <li>Commercial gas and electrical services</li>
-                  <li>Production line automation diagnostics and repairs</li>
-                  <li>Flue gas analysis, including Nitrogen Oxide, for optimum efficient use of gas</li>
-                  <li>Propane heating repairs</li>
-                  <li>Techniksolar are able to issue Gas Safety Certifications</li>
-                </ul>
-            </div>
-            <div class="col-sm-6 wow fadeInRight">
-                <h3 class="column-title">Domestic Services</h3>
-                <ul class="wow fadeInDown">
-                  <li>Domestic boiler fault finding, down to the component level</li>
-                  <li>Production line automation diagnostics and repairs</li>
-                  <li>Flue gas analysis, including Nitrogen Oxide, for optimum efficient use of gas</li>
-                  <li>Propane heating repairs</li>
-                  <li>Techniksolar are able to issue Gas Safety Certifications</li>
-                </ul>
-            </div>
-          </div>
+            <div class="portfolio-item creative">
+                <div class="portfolio-item-inner">
+                    <img class="img-responsive" src="images/portfolio/03.jpg" alt="">
+                    <div class="portfolio-info">
+                        <h3>LPG Propane/Butane</h3>
+                    </div>
+                </div>
+            </div><!--/.portfolio-item-->
+        </div>
+        <div class="row" style="padding 50px;margin-top:20px;margin-bottom:20px">
+        <div class="col-sm-6 wow fadeInLeft">
+            <h3 class="column-title">Commercial Services</h3>
+            <!-- 16:9 aspect ratio -->
+            <ul class="wow fadeInDown">
+                <li>Commercial gas and electrical services</li>
+                <li>Production line automation diagnostics and repairs</li>
+                <li>Flue gas analysis, including Nitrogen Oxide, for optimum efficient use of gas</li>
+                <li>Propane heating repairs</li>
+                <li>Techniksolar are able to issue Gas Safety Certifications</li>
+            </ul>
+        </div>
+        <div class="col-sm-6 wow fadeInRight">
+            <h3 class="column-title">Domestic Services</h3>
+            <ul class="wow fadeInDown">
+                <li>Domestic boiler fault finding, down to the component level</li>
+                <li>Production line automation diagnostics and repairs</li>
+                <li>Flue gas analysis, including Nitrogen Oxide, for optimum efficient use of gas</li>
+                <li>Propane heating repairs</li>
+                <li>Techniksolar are able to issue Gas Safety Certifications</li>
+            </ul>
+        </div>
         </div>
     </div>
     <div id="about">
