@@ -43,7 +43,7 @@
             </div><!--/.container-->
         </nav><!--/nav-->
     </header><!--/header-->
-    <div id="portfolio">
+    <div id="portfolio" class="container">
         <div class="section-header">
             <h2 class="section-title text-center wow fadeInDown">Our Technical Services</h2>
             <p class="text-center wow fadeInDown">Techniksolar Limited established in 2009, offers a complete solution to commercial & domestic natural gas heating installations with component level diagnostic repair in many cases, detailed written technical reports are issued to the client on every service visit. Other specialist services include industrial electrical support such as process control and panel building. LPG and 28sec Kerosene heating oil is also part of our core competencies.</p>
