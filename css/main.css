@@ -174,7 +174,6 @@ ul.nostyle i {
   }
   #main-menu.navbar-default .navbar-nav > li > a {
     padding-top: 40px;
-    padding-bottom: 40px;
   }
   #main-menu.navbar-default .navbar-nav > li.active > a,
   #main-menu.navbar-default .navbar-nav > li.open > a,
@@ -508,10 +507,6 @@ ul.nostyle i {
 }
 #get-in-touch {
   padding: 100px 0 50px;
-}
-#get-in-touch h1,
-#get-in-touch h2 {
-  color: #fff;
 }
 #contact {
   position: relative;
