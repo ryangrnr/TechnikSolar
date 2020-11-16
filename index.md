@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -23,7 +22,6 @@
 </head><!--/head-->
 
 <body id="home" class="homepage">
-
     <header id="header">
         <nav id="main-menu" class="navbar navbar-default navbar-fixed-top" role="banner">
             <div class="container">
@@ -36,7 +34,6 @@
                     </button>
                     <a class="navbar-brand " href="index.html"><img src="images/logo-tweak.png" alt="logo"></a>
                 </div>
-
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
                         <!-- <li class="scroll active"><a href="#home">Home</a></li> -->
@@ -48,14 +45,12 @@
             </div><!--/.container-->
         </nav><!--/nav-->
     </header><!--/header-->
-
     <section id="portfolio">
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Our Technical Services</h2>
                 <p class="text-center wow fadeInDown">Techniksolar Limited established in 2009, offers a complete solution to commercial & domestic natural gas heating installations with component level diagnostic repair in many cases, detailed written technical reports are issued to the client on every service visit. Other specialist services include industrial electrical support such as process control and panel building. LPG and 28sec Kerosene heating oil is also part of our core competencies.
             </div>
-
             <div class="portfolio-items">
                 <div class="portfolio-item creative">
                     <div class="portfolio-item-inner">
@@ -65,7 +60,6 @@
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
-
                 <div class="portfolio-item corporate portfolio">
                     <div class="portfolio-item-inner">
                         <img class="img-responsive" src="images/portfolio/02.jpg" alt="">
@@ -74,7 +68,6 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="portfolio-item creative">
                     <div class="portfolio-item-inner">
                         <img class="img-responsive" src="images/portfolio/03.jpg" alt="">
@@ -83,9 +76,7 @@
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
-
             </div>
-
           <div class="row" style="padding 50px;margin-top:20px;margin-bottom:20px">
             <div class="col-sm-6 wow fadeInLeft">
                 <h3 class="column-title">Commercial Services</h3>
@@ -98,7 +89,6 @@
                   <li>Techniksolar are able to issue Gas Safety Certifications</li>
                 </ul>
             </div>
-
             <div class="col-sm-6 wow fadeInRight">
                 <h3 class="column-title">Domestic Services</h3>
                 <ul class="wow fadeInDown">
@@ -111,28 +101,20 @@
             </div>
           </div>
         </div>
-
     </section><!--/#portfolio-->
-
-
     <section id="about">
         <div class="container">
-
             <div class="section-header">
                 <h2 class="section-title text-center wow fadeInDown">Qualifications</h2>
             </div>
-
             <div class="row">
               <div class="col-sm-6">
-
                 <div class="row  wow fadeInLeft">
                     <img class="img-responsive padding10px" src="images/qualifications/ACSJIBECS.jpg" alt="">
                 </div>
-
                 <div class="row  wow fadeInLeft">
                       <img class="img-responsive padding10px" src="images/qualifications/caddy-larger.jpg" alt="">
                 </div>
-
                 <div class="row">
                   <div class="padding10px col-sm-12 wow" >
                     <img class="img-responsive" src="images/qualifications/gas-safe.jpg" alt="">
@@ -142,7 +124,6 @@
                   <img class="img-responsive padding10px" src="images/qualifications/Businesscard.png" alt="">
                 </div>
               </div>
-
                 <div class=" padding10px col-sm-6 wow fadeInRight">
                   <h3 class="column-title">Technical Profile</h3>
                   <p>I hold a wide range of gas and electrical qualifications</p>
@@ -197,7 +178,6 @@
             </div>
         </div>
     </section><!--/#about-->
-
     <section id="get-in-touch">
         <div class="container">
             <div class="section-header">
@@ -225,29 +205,10 @@
                         <div class="col-sm-3">
                             <img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_now_accepting_pp_2line_w.png" border="0" alt="Now accepting PayPal">
                         </div>
-                      </div>
-
-                        <form id="main-contact-form" name="contact-form" method="post" action="sendemail.php">
-                            <div class="form-group">
-                                <input type="text" name="name" class="form-control" placeholder="Name" required>
-                            </div>
-                            <div class="form-group">
-                                <input type="email" name="email" class="form-control" placeholder="Email" required>
-                            </div>
-                            <div class="form-group">
-                                <input type="text" name="subject" class="form-control" placeholder="Subject" required>
-                            </div>
-                            <div class="form-group">
-                                <textarea name="message" class="form-control" rows="8" placeholder="Message" required></textarea>
-                            </div>
-                              <button type="submit" class="btn btn-primary">Send Message</button>
-                        </form>
-                    </div>
                 </div>
             </div>
         </div>
-    </section><!--/#bottom-->
-
+    </section>
     <footer id="footer">
         <div class="container">
             <div class="row">
@@ -257,7 +218,6 @@
             </div>
         </div>
     </footer><!--/#footer-->
-
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/mousescroll.js"></script>
