@@ -35,7 +35,6 @@
                 </div>
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <!-- <li class="scroll active"><a href="#home">Home</a></li> -->
                         <li class="scroll"><a href="#portfolio">Services</a></li>
                         <li class="scroll"><a href="#about">Qualifications</a></li>
                         <li class="scroll"><a href="#get-in-touch">Contact</a></li>
@@ -187,7 +186,7 @@
                     <div class="contact-form">
                       <div class="row">
                         <div class="col-sm-9">
-                        <h3><font  color="#ffffff">Contact Information</font></h3>
+                        <h3>Contact Information</h3>
                         <address>
                           <strong>Techniksolar Limited</strong><br>
                           13 Earlswood<br>
